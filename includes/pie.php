@@ -4,7 +4,7 @@
 
 		<!-- PIE DE PÁGINA -->
 		<footer id="pie">
-			<p>Desarrollado por Víctor Robles &copy; 2018</p>
+			<p>Desarrollado por Jhonny Alonso &copy; 2021</p>
 		</footer>
 		
 	</body>
