@@ -146,7 +146,7 @@ label,
 input[type="Text"],
 input[type="Email"],
 input[type="Password"]{
-    display: Block;
+    display: block;
     width: 95%;
     margin-top:2px;
     margin-bottom: 2px;
